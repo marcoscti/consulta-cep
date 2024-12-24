@@ -1,7 +1,7 @@
 # Consulta CEP
 Aplicativo para fazer consulta dos dados do CEP informado.
 ![Thumb 01](https://raw.githubusercontent.com/marcoscti/consulta-cep/refs/heads/main/thumbs/01.png)
-![Thumb 02](https://raw.githubusercontent.com/marcoscti/Tconsulta-cep/refs/heads/main/thumbs/02.png)
+![Thumb 02](https://raw.githubusercontent.com/marcoscti/consulta-cep/refs/heads/main/thumbs/02.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
