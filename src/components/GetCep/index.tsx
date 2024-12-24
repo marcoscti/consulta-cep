@@ -11,7 +11,6 @@ export const GetCep = ({ cep }: Props) => {
             Bairro: {cep.bairro}<br/>
             Logradouro: {cep.logradouro}<br/>
             Cidade: {cep.localidade}
-            
             </p>
         </div>
     )

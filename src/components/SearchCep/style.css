@@ -1,23 +1,26 @@
-.form input{
-    outline: none;
-    height: 40px;
-    border-radius: 10px;
-    border: 1px solid gainsboro;
-    padding: 0 10px;
-    font-size: 16px;
-    width: 100%;
-    box-sizing: border-box;
+.form input {
+  outline: none;
+  height: 40px;
+  border-radius: 10px;
+  border: 1px solid gainsboro;
+  padding: 0 10px;
+  font-size: 16px;
+  width: 100%;
+  box-sizing: border-box;
 }
-.form button{
-    height: 40px;
-    background: transparent;
-    border: none;
-    cursor: pointer;
-    font-size: 18px;
-    position: absolute;
-    margin-left: -40px;
+.form button {
+  height: 40px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 18px;
+  position: absolute;
+  margin-left: -40px;
 }
-.cep{
-    margin-top: 10px;
-    color: rgb(2, 39, 84);
+
+.cep {
+  margin-top: 10px;
+  color: rgb(2, 39, 84);
 }
+
+/*# sourceMappingURL=style.css.map */
